@@ -8,3 +8,5 @@ syntax:
 cWords filename keyword keyword ...
 
 It is to be distributed under the GPL.
+
+Any improvements anyone would like to make are greatly appreciated!
